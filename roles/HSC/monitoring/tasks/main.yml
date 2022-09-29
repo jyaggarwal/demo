@@ -1,4 +1,4 @@
-- name: Install the latest version of Apache2
+- name: Install the latest version of httpd
   ansible.builtin.yum:
     name: httpd
     state: present
