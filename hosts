@@ -3,7 +3,7 @@
 #52.53.187.175
 192.168.79.130
 [windows:vars]
-ansible_user=Administrator
+ansible_user=root
 ansible_password=admin@123
 ansible_port=5985
 ansible_connection=winrm
